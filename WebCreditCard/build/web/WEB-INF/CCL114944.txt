@@ -1,0 +1,4 @@
+Account 114944 created.	3/30/21 8:57 PM
+Credit Card Charge: $20.00 for f	3/30/21 8:57 PM
+Credit Card Payment: $50.00	3/30/21 8:57 PM
+Credit Card Charge: $2,000.00 for whoops declined - over limit	3/30/21 8:57 PM
